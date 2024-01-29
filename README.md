@@ -24,8 +24,8 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 </div>
 
 #### 1. [Gmail Account Generator](https://github.com/Icicle-Research/gmail_gen)
-
-
+#### 2. [Outlook Account Generator](https://github.com/Icicle-Research/outlook_gen)
+#### 3. [https://github.com/Icicle-Research/yahooacc_gen](https://github.com/Icicle-Research/yahooacc_gen)
 
 <div align="center">
 
@@ -50,6 +50,9 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 
 ---
 #### 1. [Google Dork Query Generator](https://github.com/Icicle-Research/gdork_query_generator)
+#### 2. [Gmail Inbox Searcher](https://github.com/Icicle-Research/gmail_deepsearch)
+#### 3. [Outlook Inbox Searcher](https://github.com/Icicle-Research/outlook_deepsearch)
+#### 4. [Yahoo Inbox Searcher](https://github.com/Icicle-Research/yahoo_deepsearch)
 
 <div align="center">
 

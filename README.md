@@ -3,8 +3,22 @@
 Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Research)
 
 ---
+
 <div align="center">
 
+### General Stuff
+
+</div>
+
+#### 1. [Icicle Webpage](https://github.com/Icicle-Research/Icicle-Research)
+#### 2. [Icicle Index](https://github.com/Icicle-Research/Icicle-Index)
+#### 3. [Setups](https://github.com/Icicle-Research/Setups)
+
+
+
+<div align="center">
+
+---
 ### Email Generators
 
 </div>

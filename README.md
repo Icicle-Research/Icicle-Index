@@ -1,6 +1,6 @@
 # Icicle-Index
 
-Index For The Repos on `https://github.com/Icicle-Research`
+Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Research)
 
 ---
 <div align="center">

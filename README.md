@@ -5,7 +5,7 @@ Index For The Repos on `https://github.com/Icicle-Research`
 ---
 <div align="center">
 
-### Email Generatords
+### Email Generators
 
 </div>
 

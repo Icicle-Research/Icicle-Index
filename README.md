@@ -64,11 +64,3 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 
 #### 1. [Zip Bomb Maker](https://github.com/Icicle-Research/zipLoader)
 
-<div align="center">
-
----
-### Leaked/ Stolen src code
-
-</div>
-
-#### 1. [K_C2](https://github.com/Icicle-Research/KaitenC2_Leaked_src-code)

@@ -23,9 +23,9 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 
 </div>
 
-#### 1. [Gmail Account Generator](https://github.com/Icicle-Research/gmail_gen)
-#### 2. [Outlook Account Generator](https://github.com/Icicle-Research/outlook_gen)
-#### 3. [Yahoo Account Generator](https://github.com/Icicle-Research/yahooacc_gen)
+#### 1. [Gmail Generator](https://github.com/Icicle-Research/gmail_gen)
+#### 2. [Outlook Generator](https://github.com/Icicle-Research/outlook_gen)
+#### 3. [Yahoo Generator](https://github.com/Icicle-Research/yahooacc_gen)
 
 <div align="center">
 
@@ -35,10 +35,10 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 </div>
 
 
-#### 1. [Discord Account Generator](https://github.com/Icicle-Research/discordacc_gen)
-#### 2. [Roblox Account Generator](https://github.com/Icicle-Research/robloxacc_gen)
-#### 3. [Instagram Account Generator](https://github.com/Icicle-Research/instaacc_gen)
-#### 4. [Twitter Account Generator](https://github.com/Icicle-Research/twitteracc_gen)
+#### 1. [Discord Generator](https://github.com/Icicle-Research/discordacc_gen)
+#### 2. [Roblox Generator](https://github.com/Icicle-Research/robloxacc_gen)
+#### 3. [Instagram Generator](https://github.com/Icicle-Research/instaacc_gen)
+#### 4. [Twitter Generator](https://github.com/Icicle-Research/twitteracc_gen)
 
 
 <div align="center">

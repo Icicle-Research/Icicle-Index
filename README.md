@@ -6,7 +6,7 @@ Index For The Repos on `https://github.com/Icicle-Research`
 
 ### Email Generatords
 
-1. [Gmail Account Generator](https://github.com/Icicle-Research/gmail_gen)
+#### 1. [Gmail Account Generator](https://github.com/Icicle-Research/gmail_gen)
 
 
 ### Account Generators

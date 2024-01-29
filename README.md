@@ -25,7 +25,7 @@ Index For The Repos on [Icicle Research's Github](https://github.com/Icicle-Rese
 
 #### 1. [Gmail Account Generator](https://github.com/Icicle-Research/gmail_gen)
 #### 2. [Outlook Account Generator](https://github.com/Icicle-Research/outlook_gen)
-#### 3. [https://github.com/Icicle-Research/yahooacc_gen](https://github.com/Icicle-Research/yahooacc_gen)
+#### 3. [Yahoo Account Generator](https://github.com/Icicle-Research/yahooacc_gen)
 
 <div align="center">
 
